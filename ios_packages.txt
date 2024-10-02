@@ -1,0 +1,4 @@
+com.global.foodpanda.ios
+com.deliveryhero.pandaportal
+com.logistics.rider.foodpanda
+com.logistics.rider.foody

@@ -1,0 +1,3 @@
+com.deliveryhero.foodorapartner
+com.hungerstation.android.web
+com.logistics.rider.hungerstation
