@@ -1,3 +1,4 @@
 com.global.foodpanda.ios
 com.deliveryhero.pandaportal
 com.logistics.rider.foodpanda
+com.hungerstation.ios.hungerstationapp
